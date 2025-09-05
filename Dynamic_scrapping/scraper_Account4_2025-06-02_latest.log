@@ -1,0 +1,15 @@
+2025-09-05 08:06:20,882 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Starting day 2025-06-02 | product=Latest ONLY
+2025-09-05 08:06:20,882 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Base query: (@HungerStation OR هنقرستيشن OR هانقرستيشن) -كوبون -كود
+2025-09-05 08:06:20,882 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Day query:  (@HungerStation OR هنقرستيشن OR هانقرستيشن) -كوبون -كود since:2025-06-02 until:2025-06-03
+2025-09-05 08:06:20,883 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Collected 0/100000 — cursor=None
+2025-09-05 08:06:22,000 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Added 20 tweets. Total=20
+2025-09-05 08:06:22,000 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Waiting 9 seconds before next request...
+2025-09-05 08:06:31,010 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Collected 20/100000 — cursor=DAADDAABCgABGseht1bakaMKAAIax47ZQZcRLwAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbQMS0WIAnEAoABhtAxLRYf9jwAAA
+2025-09-05 08:06:32,230 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Added 20 tweets. Total=40
+2025-09-05 08:06:32,230 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Waiting 15 seconds before next request...
+2025-09-05 08:06:47,246 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Collected 40/100000 — cursor=DAADDAABCgABGseht1bakaMKAAIax4o3g1ahyQAIAAIAAAACCAADAAAAAAgABAAAAAEKAAUbQMS0WIAnEAoABhtAxLRYf7HgAAA
+2025-09-05 08:06:48,579 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Added 18 tweets. Total=58
+2025-09-05 08:06:48,580 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Waiting 7 seconds before next request...
+2025-09-05 08:06:55,581 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Collected 58/100000 — cursor=DAADDAABCgABGseht1bakaMKAAIax4E-pVehygAIAAIAAAACCAADAAAAAAgABAAAAAIKAAUbQMS0WIAnEAoABhtAxLRYf4rQAAA
+2025-09-05 08:06:56,659 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Added 19 tweets. Total=77
+2025-09-05 08:06:56,659 - TwitterScraper_Account4_2025-06-02_LATEST - INFO - Waiting 14 seconds before next request...
