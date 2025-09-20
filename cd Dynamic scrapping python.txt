@@ -1,0 +1,26 @@
+cd Dynamic_scrapping
+python init.py \
+  --account Account3 \
+  --query "(@HungerStation OR هنقرستيشن OR هانقرستيشن) -كوبون -كود" \
+  --day 2025-08-11 \
+  --product Latest
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  source twikit_env/bin/activate
+
+  
+  
+  cd Dynamic_scrapping
+  python Twikit_Weekly_Scraper.py \
+  --account Account4 \
+  --query "(@HungerStation OR هنقرستيشن OR هانقرستيشن) -كوبون -كود" \
+  --start 2025-06-26 \
+  --end 2025-07-01
